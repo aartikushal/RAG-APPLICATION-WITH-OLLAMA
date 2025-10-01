@@ -8,7 +8,7 @@ REST API built with FastAPI
 
 Generates creative stories from user-provided prompts
 
-Connects to Ollama local API (http://localhost:11434)
+Connects to Ollama local API (http://127.0.0.1:8000/docs)
 
 Configurable token limit (max_tokens)
 
